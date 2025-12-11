@@ -1,7 +1,8 @@
 #nginx 
 #支持私库
---platform=linux/arm64/v8 nvcr.io/nvidia/pytorch:25.09-py3
---platform=linux/arm64/v8 ghcr.io/open-webui/open-webui:ollama
+#--platform=linux/arm64/v8 nvcr.io/nvidia/pytorch:25.09-py3
+#--platform=linux/arm64/v8 ghcr.io/open-webui/open-webui:ollama
+bluenviron/mediamtx:latest
 #xhofe/alist:latest
 #支持指定架构
 
